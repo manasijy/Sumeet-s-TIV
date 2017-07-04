@@ -1,0 +1,175 @@
+Solver: Auto 
+
+Solver: Auto 
+
+Solver: ode45 
+
+Solver: ode45 
+
+Solver: ode1 
+
+ estimated value of k1 is 89999995.492676 +- 6569158.077705 
+ estimated value of k2 is 1029.220762 +- 0.137548 
+ estimated value of k3 is -109.050313 +- 13.651875 
+ estimated value of kL is -3267.005595 +- 43998.667060 
+
+
+Solver: ode1 
+
+Solver: ode1 
+
+Solver: ode1 
+
+Solver: ode1 
+
+ estimated value of k1 is 69999984.311712 +- 20925156.238339 
+ estimated value of k2 is 1023.495044 +- 0.140540 
+ estimated value of k3 is -259.720092 +- 54.142413 
+ estimated value of kL is 15.469252 +- 2.486657 
+
+
+Solver: ode1 
+
+Solver: ode1 
+
+Solver: ode1 
+
+ estimated value of k1 is 69999984.311712 +- 20925156.238339 
+ estimated value of k2 is 1023.495044 +- 0.140540 
+ estimated value of k3 is -259.720092 +- 54.142413 
+ estimated value of kL is 15.469252 +- 2.486657 
+
+
+Solver: ode45 
+
+Solver: ode45 
+
+ estimated value of k1 is 96863573.389218 +- 13172948.457099 
+ estimated value of k2 is 10.099320 +- 1.158354 
+ estimated value of k3 is 71.910655 +- 10.683470 
+ estimated value of kL is 81.497500 +- 10.165823 
+These values seems to be correct
+
+
+Solver: ode45 
+
+ estimated value of k1 is 96590818.172505 +- 13229777.682778 
+ estimated value of k2 is 10.079068 +- 1.162589 
+ estimated value of k3 is 72.135370 +- 10.735318 
+ estimated value of kL is 81.264753 +- 10.089608 
+
+
+Solver: ode45 
+
+ estimated value of k1 is 96669856.368506 +- 13210397.120281 
+ estimated value of k2 is 10.084864 +- 1.161151 
+ estimated value of k3 is 72.084837 +- 10.717600 
+ estimated value of kL is 81.350461 +- 10.114443 
+
+
+Solver: ode45 
+
+ estimated value of k1 is 70000000.006035 +- 75247123.852945 
+ estimated value of k2 is 8.012336 +- 5.532031 
+ estimated value of k3 is 686.818635 +- 4453.076455 
+ estimated value of kL is 49.699601 +- 50.373932 
+ estimated value of Ls is 0.000019 +- 0.000026 
+
+
+Solver: ode45 
+
+ estimated value of k1 is 70000000.006035 +- 75247123.852945 
+ estimated value of k2 is 8.012336 +- 5.532031 
+ estimated value of k3 is 686.818635 +- 4453.076455 
+ estimated value of kL is 49.699601 +- 50.373932 
+ estimated value of Ls is 0.000019 +- 0.000026 
+
+
+Solver: ode45 
+
+ estimated value of k1 is 69993364.921903 +- 62199969.454271 
+ estimated value of k2 is 8.107363 +- 4.592150 
+ estimated value of k3 is 2297.457609 +- 7180.377941 
+ estimated value of kL is 44.615620 +- 24.609150 
+ estimated value of Ls is 0.000023 +- 0.000005 
+
+
+Solver: ode45 
+
+ estimated value of k1 is 69999999.962195 +- 64050587.398253 
+ estimated value of k2 is 8.082259 +- 4.730042 
+ estimated value of k3 is 1707.682493 +- 6817.303295 
+ estimated value of kL is 45.739395 +- 28.566075 
+ estimated value of Ls is 0.000022 +- 0.000009 
+
+
+Solver: ode45 
+
+ estimated value of k2 is 8.013359 +- 0.210905 
+ estimated value of k3 is 695.748249 +- 1343.438959 
+ estimated value of kL is 49.631452 +- 10.484342 
+ estimated value of Ls is 0.000019 +- 0.000009 
+Solver: ode45 
+
+ estimated value of k2 is 8.078067 +- 0.297817 
+ estimated value of k3 is 1256.685534 +- 3286.967320 
+ estimated value of kL is 46.681191 +- 11.013962 
+ estimated value of Ls is 0.000021 +- 0.000009 
+Solver: ode45 
+
+ estimated value of k1 is 7.974944 +- 0.306096 
+ estimated value of k2 is 348.306769 +- 878.661619 
+ estimated value of k3 is 53.531462 +- 18.857462 
+ estimated value of kL is 0.000015 +- 0.000014 
+Solver: ode45 
+
+Solver: ode45 
+
+Solver: ode45 
+
+ estimated value of k1 is 69268977.262416 +- 80400287.100073 
+ estimated value of k2 is 8.091346 +- 5.987100 
+ estimated value of k3 is 665.099884 +- 853.539505 
+ estimated value of kL is 44.718004 +- 26.307903 
+ estimated value of Ls is 0.000019 +- 0.000004 
+
+Solver: ode45 
+
+ estimated value of k1 is 69268977.262416 +- 80400287.100073 
+ estimated value of k2 is 8.091346 +- 5.987100 
+ estimated value of k3 is 665.099884 +- 853.539505 
+ estimated value of kL is 44.718004 +- 26.307903 
+ estimated value of Ls is 0.000019 +- 0.000004 
+
+Solver: ode45 
+
+ estimated value of k1 is 70000000.001053 +- 74875113.213859 
+ estimated value of k2 is 8.103777 +- 5.628366 
+ estimated value of k3 is 559.041588 +- 780.334093 
+ estimated value of kL is 46.722046 +- 27.511561 
+ estimated value of Ls is 0.000018 +- 0.000005 
+
+Solver: ode45 
+
+ estimated value of k1 is 110873329.751234 +- 14724081.961252 
+ estimated value of k2 is 11.305242 +- 1.361857 
+ estimated value of k3 is 46.581754 +- 6.553502 
+ estimated value of kL is 107.988730 +- 26.034031 
+Solver: ode45 
+
+ estimated value of k1 is 188821017.680147 +- 22408949.857032 
+ estimated value of k2 is 11.514290 +- 1.262170 
+ estimated value of k3 is 119.656128 +- 15.247685 
+ estimated value of kL is 119.763006 +- 29.255443 
+Solver: ode45 
+
+ estimated value of k1 is 188910462.051270 +- 22379011.637795 
+ estimated value of k2 is 11.519152 +- 1.260745 
+ estimated value of k3 is 119.629183 +- 15.225915 
+ estimated value of kL is 119.890592 +- 29.316106 
+Solver: ode45 
+
+Solver: ode45 
+
+Solver: ode45 
+
